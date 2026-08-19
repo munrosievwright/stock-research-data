@@ -1,0 +1,5 @@
+{
+  "_comment": "Holdings the user has shared for sell-review purposes. Each entry: ticker, shares (optional), cost_basis (optional), added date, notes.",
+  "holdings": [],
+  "last_updated": null
+}

@@ -1,0 +1,4 @@
+{
+  "_comment": "History of alerts already sent, used to dedupe and give the monitor context on what's already been reported.",
+  "alerts": []
+}

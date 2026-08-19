@@ -1,0 +1,4 @@
+{
+  "_comment": "Stocks the user has explicitly asked to research/monitor. status: 'deep_dive' = within first 24h research window, 'monitoring' = ongoing hourly checks.",
+  "stocks": []
+}
