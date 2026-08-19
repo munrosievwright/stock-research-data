@@ -1,4 +1,65 @@
 {
-  "_comment": "Stocks the user has explicitly asked to research/monitor. status: 'deep_dive' = within first 24h research window, 'monitoring' = ongoing hourly checks.",
-  "stocks": []
+  "_comment": "Stocks the user has explicitly asked to research/monitor. status: 'deep_dive' = inside the first 24h research window since being added. status: 'monitoring' = ongoing hourly significance checks.",
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "company": "NVIDIA Corporation",
+      "status": "deep_dive",
+      "added_at": "2026-08-19T22:24:53Z",
+      "research_notes": [],
+      "reason_added": "User requested deep research on NVIDIA and closely related companies.",
+      "research_focus": "Primary target. In addition to standard significance criteria, explicitly search for and flag any news about Vanguard funds changing their stake in NVDA (13F filing reports, disclosed buys/sells, index fund flow commentary) — treat a reported Vanguard stake change as significant even if small, since the user asked to track this specifically."
+    },
+    {
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "company": "Taiwan Semiconductor Manufacturing Co",
+      "status": "deep_dive",
+      "added_at": "2026-08-19T22:24:53Z",
+      "research_notes": [],
+      "reason_added": "Closely related to NVDA — primary foundry/chip manufacturing partner.",
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+    },
+    {
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "company": "Advanced Micro Devices",
+      "status": "deep_dive",
+      "added_at": "2026-08-19T22:24:53Z",
+      "research_notes": [],
+      "reason_added": "Closely related to NVDA — direct competitor in GPUs/AI accelerators.",
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+    },
+    {
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "company": "Broadcom Inc",
+      "status": "deep_dive",
+      "added_at": "2026-08-19T22:24:53Z",
+      "research_notes": [],
+      "reason_added": "Closely related to NVDA — competitor in custom AI silicon and networking.",
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+    },
+    {
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "company": "Micron Technology",
+      "status": "deep_dive",
+      "added_at": "2026-08-19T22:24:53Z",
+      "research_notes": [],
+      "reason_added": "Closely related to NVDA — HBM memory supplier critical to AI chip supply chain.",
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+    },
+    {
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "company": "ASML Holding NV",
+      "status": "deep_dive",
+      "added_at": "2026-08-19T22:24:53Z",
+      "research_notes": [],
+      "reason_added": "Closely related to NVDA — upstream lithography equipment supplier essential to chip manufacturing.",
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+    }
+  ]
 }
