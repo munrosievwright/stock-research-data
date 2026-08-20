@@ -36,6 +36,15 @@
       "why_it_matters": "A large, single-day price move (7%) tied to a specific, named, influential public statement about the durability of Micron's core memory pricing cycle — directly relevant to the investment thesis on MU.",
       "source_url": "https://www.benzinga.com/markets/tech/26/08/61293989/whats-going-on-with-micron-technology-stock-wednesday-5",
       "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-20T01:30:13Z",
+      "ticker": "AMD",
+      "headline": "AMD acquires Taalas to advance AI inference compute solutions",
+      "summary": "AMD announced the acquisition of Taalas, aimed at strengthening its compute solutions for the rapidly growing AI inference market. AMD also appointed Tim Ryan to its Board of Directors the same day (Aug 19).",
+      "why_it_matters": "A direct M&A move expanding AMD's AI inference capabilities — relevant to its competitive positioning against NVDA in the AI compute market.",
+      "source_url": "https://finance.yahoo.com/quote/AMD/news/",
+      "portfolio_relevant": false
     }
   ]
 }

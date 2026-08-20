@@ -13,6 +13,10 @@
         {
           "timestamp_utc": "2026-08-20T00:08:48Z",
           "note": "Trading ~$219.74, market cap $5.32T, 52-week range $164.07-$236.54. Next earnings Aug 26, 2026. Analyst consensus strongly bullish: 58 buy vs 1 sell, avg 12-month target $302.83. Reported to be exploring a ~$20B stake in AI data-labeling firm Mercor (unconfirmed), involved in OpenAI's Ohio data center project, and holds a previously disclosed $21B stake in SpaceX. Vanguard-specific 13F search today found no new disclosed stake change — Vanguard remains a top institutional holder per aggregate ownership data, but no fresh filing news surfaced. Will keep checking."
+        },
+        {
+          "timestamp_utc": "2026-08-20T01:30:13Z",
+          "note": "Background context surfaced (not fresh, dated Aug 10-17): NVIDIA backing $105B in financing for OpenAI's Ohio data center; MOUs to mobilize $500B+ third-party AI compute capital with up to $125B backstop; small-batch H200 shipments into China (ByteDance, Tencent ~10K units each). Jefferies expects a 'beat and raise' Aug 26 earnings report (single analyst view, not alert-worthy). No new Vanguard stake news."
         }
       ]
     },
@@ -28,6 +32,10 @@
         {
           "timestamp_utc": "2026-08-20T00:08:48Z",
           "note": "Trading ~$412.27, market cap $1.91T, 52-week range $223.70-$479.00. Analyst sentiment strongly bullish (18 buy, 0 sell), avg target $554.45. Ramping 3nm chip production amid strong demand; a potential joint venture with Sony for image sensors was reported — incremental positive, not treated as alert-worthy (routine/positive commentary, not a discrete material event). No Vanguard stake news found today."
+        },
+        {
+          "timestamp_utc": "2026-08-20T01:30:13Z",
+          "note": "July revenue +44.7% YoY (recirculated, not fresh). Arizona operations profitable (~$1.13B cumulative H1 2026). Declared regular cash dividend $1.114/share, ex-date Sept 16 — routine continuation, not a change, not alert-worthy. No new Vanguard stake news."
         }
       ]
     },
@@ -43,6 +51,10 @@
         {
           "timestamp_utc": "2026-08-20T00:08:48Z",
           "note": "Trading ~$480.23, market cap $791.23B. Down ~4% today, attributed mainly to rising Treasury yields (macro, not company-specific) — not treated as alert-worthy on its own. Launched 'Instinct Coder' enterprise AI product. Priced a $5B debt offering to fund AI/data-center capacity — logged as a significant capital-raise event. ARK Invest (Cathie Wood) reportedly trimmed AMD holdings across ETFs — noted but not Vanguard, so not alert-worthy per the user's specific Vanguard-tracking request. No Vanguard stake news found today."
+        },
+        {
+          "timestamp_utc": "2026-08-20T01:30:13Z",
+          "note": "Acquired Taalas to strengthen AI inference compute solutions — logged as a significant M&A event. Also appointed Tim Ryan to the Board of Directors (Aug 19) — routine board addition, not alert-worthy. Q2 2026 results (already reported, background): revenue $11.5B, gross margin 54%, EPS $1.38. No new Vanguard stake news."
         }
       ]
     },
@@ -58,6 +70,10 @@
         {
           "timestamp_utc": "2026-08-20T00:08:48Z",
           "note": "Trading ~$380.00, down ~3-5% today after Marvell Technology landed a custom AI chip deal with Google — logged as a significant competitive-threat event. Underlying fundamentals remain strong: Q2 revenue $22.19B (+48% YoY), AI semiconductor revenue +143% YoY to $10.8B, Q3 guidance of $29.4B beat consensus. No Vanguard stake news found today."
+        },
+        {
+          "timestamp_utc": "2026-08-20T01:30:13Z",
+          "note": "Continued weakness: down ~12% over the past 7 sessions, ~21% below early-June peak. Notable insider selling pattern (148 sells vs 1 buy recently) and commentary about a '$370B AI financing risk' concern — same underlying Marvell/Google competitive story as before, not a new discrete event, so not re-alerted (would be a duplicate). Watching for any fresh company-specific development. No new Vanguard stake news."
         }
       ]
     },
@@ -73,6 +89,10 @@
         {
           "timestamp_utc": "2026-08-20T00:08:48Z",
           "note": "Trading ~$942.84, market cap $1.06T. Dropped ~7% after Cathie Wood (ARK Invest) publicly warned high-bandwidth memory prices look cyclically risky and said she's avoiding memory-dependent AI chip stocks — logged as significant given the size of the move and specific named cause. Shares partly rebounded (~1%) in following premarket session. Analysts still Buy-consensus, avg target $1,537.50. Next earnings ~Sept 22, 2026. No Vanguard stake news found today."
+        },
+        {
+          "timestamp_utc": "2026-08-20T01:30:13Z",
+          "note": "Background context surfaced (not fresh): Q3 2026 EPS $25.11 beat estimates by 24%, but shares fell ~30% after that report, bottoming near $738 on July 29 — this is an old (~3 week old) event, not new. Became a $1T market-cap company May 26, 2026 (old). No fresh company-specific development this run beyond the already-logged Cathie Wood story. No new Vanguard stake news."
         }
       ]
     },
@@ -88,6 +108,10 @@
         {
           "timestamp_utc": "2026-08-20T00:08:48Z",
           "note": "Down ~5.5% today, closed ~$1,011.57. Coverage attributes this to renewed concern about China's progress on domestic DUV lithography (long-term competitive risk to ASML's China business) plus a broader risk-off move across semiconductor equipment stocks after a strong recent run — language was hedged ('most likely driver', 'part of the decline could be valuation-driven'), so treated as not clearly tied to one specific new fact and not alerted this run, but worth continued watching given the magnitude. Q2 update was fundamentally strong with a raised 2026 outlook; analyst consensus Strong Buy, avg target $2,169.56. No Vanguard stake news found today."
+        },
+        {
+          "timestamp_utc": "2026-08-20T01:30:13Z",
+          "note": "New strategic partnership reported with Tata Electronics to advance the semiconductor manufacturing ecosystem in India. High NA EUV reached a new readiness milestone (first high-volume logic product). BofA reportedly pushed back on the China-threat narrative, arguing ASML is not under threat from China — relevant counterpoint to yesterday's decline but is analyst opinion, not a new fact; not alert-worthy on its own. No new Vanguard stake news."
         }
       ]
     }
