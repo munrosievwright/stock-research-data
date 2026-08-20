@@ -29,6 +29,10 @@
         {
           "timestamp_utc": "2026-08-20T04:22:21Z",
           "note": "Earnings call confirmed for Aug 26, 2pm PT, covering FQ2 2027 (ended Jul 26, 2026). Analysts expect ~$28.7B revenue (+50%+ YoY), data center segment >$25B. Trading at ~25x forward earnings, described as reasonably valued heading into earnings. No new discrete event this run. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T21:57:20Z",
+          "note": "Friday morning check (NZ market reopened after Thu 5pm cutoff): new detail on the OpenAI relationship — now framed as NVIDIA planning to invest up to $100B in OpenAI for 10GW of AI data centers from 2026 — appears to be the same ongoing OpenAI/data-center storyline restated with a different figure, not a clearly new discrete event. New minor partnerships (TCS retail AI integration, Abu Dhabi TII joint research lab) — routine business-development news, not alert-worthy. No new Vanguard stake news."
         }
       ]
     },
@@ -60,6 +64,10 @@
         {
           "timestamp_utc": "2026-08-20T04:22:21Z",
           "note": "Q3 guidance detail surfaced: $44.6-45.8B revenue, 65-67% gross margin (temporary pressure from 2nm ramp costs) — appears tied to the same Q2 earnings call already noted as old, not fresh today. Next earnings Oct 15, 2026. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T21:57:20Z",
+          "note": "Friday morning check — no new developments, same picture (3nm ramp, Sony JV talk, Q2 figures). No new Vanguard stake news."
         }
       ]
     },
@@ -91,6 +99,10 @@
         {
           "timestamp_utc": "2026-08-20T04:22:21Z",
           "note": "NEW, alerted: board leadership refresh explicitly framed around AI strategy, reported ~3h before this check (freshest AMD item so far) — specifics on which board seats limited in search results. Also saw Aug 19-dated items (5% dip despite AI-efficiency progress, 4% dip despite Mexico Secihti MOU) — over a day old relative to now, not fresh, not alerted. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T21:57:20Z",
+          "note": "Friday morning check — ARK Invest reportedly sold ~$1.86M of AMD; consistent with prior treatment, a single fund's disclosed flow (not Vanguard) isn't alert-worthy per the strict criteria. No other new developments. No new Vanguard stake news."
         }
       ]
     },
@@ -122,6 +134,10 @@
         {
           "timestamp_utc": "2026-08-20T04:22:21Z",
           "note": "NEW, alerted: mixed analyst reaction to the selloff — Macquarie downgraded to Neutral, Jefferies raised target to $550, Wells Fargo held $545. Street view broadly 'catalyst gap, not AI demand collapse.' No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T21:57:20Z",
+          "note": "Friday morning check — ARK Invest reportedly added $21.1M in AVGO shares during the dip (consistent with the earlier $16M buy note, not a new distinct event). Stock traded $357.61-$381.16 range on elevated volume (35M vs 19M avg) — no new discrete company-specific fact beyond what's logged. No new Vanguard stake news."
         }
       ]
     },
@@ -153,6 +169,10 @@
         {
           "timestamp_utc": "2026-08-20T04:22:21Z",
           "note": "NEW, alerted: Netlist filed new ITC and federal court patent infringement actions against Micron over DDR5 RDIMM/MRDIMM technology — distinct legal-action event, logged as significant given ITC import-ban risk. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T21:57:20Z",
+          "note": "Friday morning check — no new developments beyond the Netlist suit already logged; generic bullish list-piece grouping AMD/TSM/MU as 'Strong Buy AI stocks ahead of Nvidia earnings' — not alert-worthy. No new Vanguard stake news."
         }
       ]
     },
@@ -184,6 +204,10 @@
         {
           "timestamp_utc": "2026-08-20T04:22:21Z",
           "note": "Conflicting older headlines surfaced ('lifts 2026 outlook' vs 'warns targets may be unattainable', full-year guidance raised to €43-45B dated ~Aug 10) — inconsistent dating suggests these are from different points earlier this month, not today. Search itself noted no clear Aug 20-specific news. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T21:57:20Z",
+          "note": "Friday morning check — same picture, no new developments. The '17% interim dividend increase' detail recurred again with no clearer date; treating as background, not alerting without an explicit fresh date. No new Vanguard stake news."
         }
       ]
     }
