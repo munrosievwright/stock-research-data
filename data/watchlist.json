@@ -7,9 +7,14 @@
       "company": "NVIDIA Corporation",
       "status": "deep_dive",
       "added_at": "2026-08-19T22:24:53Z",
-      "research_notes": [],
       "reason_added": "User requested deep research on NVIDIA and closely related companies.",
-      "research_focus": "Primary target. In addition to standard significance criteria, explicitly search for and flag any news about Vanguard funds changing their stake in NVDA (13F filing reports, disclosed buys/sells, index fund flow commentary) — treat a reported Vanguard stake change as significant even if small, since the user asked to track this specifically."
+      "research_focus": "Primary target. In addition to standard significance criteria, explicitly search for and flag any news about Vanguard funds changing their stake in NVDA (13F filing reports, disclosed buys/sells, index fund flow commentary) — treat a reported Vanguard stake change as significant even if small, since the user asked to track this specifically.",
+      "research_notes": [
+        {
+          "timestamp_utc": "2026-08-20T00:08:48Z",
+          "note": "Trading ~$219.74, market cap $5.32T, 52-week range $164.07-$236.54. Next earnings Aug 26, 2026. Analyst consensus strongly bullish: 58 buy vs 1 sell, avg 12-month target $302.83. Reported to be exploring a ~$20B stake in AI data-labeling firm Mercor (unconfirmed), involved in OpenAI's Ohio data center project, and holds a previously disclosed $21B stake in SpaceX. Vanguard-specific 13F search today found no new disclosed stake change — Vanguard remains a top institutional holder per aggregate ownership data, but no fresh filing news surfaced. Will keep checking."
+        }
+      ]
     },
     {
       "ticker": "TSM",
@@ -17,9 +22,14 @@
       "company": "Taiwan Semiconductor Manufacturing Co",
       "status": "deep_dive",
       "added_at": "2026-08-19T22:24:53Z",
-      "research_notes": [],
       "reason_added": "Closely related to NVDA — primary foundry/chip manufacturing partner.",
-      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock.",
+      "research_notes": [
+        {
+          "timestamp_utc": "2026-08-20T00:08:48Z",
+          "note": "Trading ~$412.27, market cap $1.91T, 52-week range $223.70-$479.00. Analyst sentiment strongly bullish (18 buy, 0 sell), avg target $554.45. Ramping 3nm chip production amid strong demand; a potential joint venture with Sony for image sensors was reported — incremental positive, not treated as alert-worthy (routine/positive commentary, not a discrete material event). No Vanguard stake news found today."
+        }
+      ]
     },
     {
       "ticker": "AMD",
@@ -27,9 +37,14 @@
       "company": "Advanced Micro Devices",
       "status": "deep_dive",
       "added_at": "2026-08-19T22:24:53Z",
-      "research_notes": [],
       "reason_added": "Closely related to NVDA — direct competitor in GPUs/AI accelerators.",
-      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock.",
+      "research_notes": [
+        {
+          "timestamp_utc": "2026-08-20T00:08:48Z",
+          "note": "Trading ~$480.23, market cap $791.23B. Down ~4% today, attributed mainly to rising Treasury yields (macro, not company-specific) — not treated as alert-worthy on its own. Launched 'Instinct Coder' enterprise AI product. Priced a $5B debt offering to fund AI/data-center capacity — logged as a significant capital-raise event. ARK Invest (Cathie Wood) reportedly trimmed AMD holdings across ETFs — noted but not Vanguard, so not alert-worthy per the user's specific Vanguard-tracking request. No Vanguard stake news found today."
+        }
+      ]
     },
     {
       "ticker": "AVGO",
@@ -37,9 +52,14 @@
       "company": "Broadcom Inc",
       "status": "deep_dive",
       "added_at": "2026-08-19T22:24:53Z",
-      "research_notes": [],
       "reason_added": "Closely related to NVDA — competitor in custom AI silicon and networking.",
-      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock.",
+      "research_notes": [
+        {
+          "timestamp_utc": "2026-08-20T00:08:48Z",
+          "note": "Trading ~$380.00, down ~3-5% today after Marvell Technology landed a custom AI chip deal with Google — logged as a significant competitive-threat event. Underlying fundamentals remain strong: Q2 revenue $22.19B (+48% YoY), AI semiconductor revenue +143% YoY to $10.8B, Q3 guidance of $29.4B beat consensus. No Vanguard stake news found today."
+        }
+      ]
     },
     {
       "ticker": "MU",
@@ -47,9 +67,14 @@
       "company": "Micron Technology",
       "status": "deep_dive",
       "added_at": "2026-08-19T22:24:53Z",
-      "research_notes": [],
       "reason_added": "Closely related to NVDA — HBM memory supplier critical to AI chip supply chain.",
-      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock.",
+      "research_notes": [
+        {
+          "timestamp_utc": "2026-08-20T00:08:48Z",
+          "note": "Trading ~$942.84, market cap $1.06T. Dropped ~7% after Cathie Wood (ARK Invest) publicly warned high-bandwidth memory prices look cyclically risky and said she's avoiding memory-dependent AI chip stocks — logged as significant given the size of the move and specific named cause. Shares partly rebounded (~1%) in following premarket session. Analysts still Buy-consensus, avg target $1,537.50. Next earnings ~Sept 22, 2026. No Vanguard stake news found today."
+        }
+      ]
     },
     {
       "ticker": "ASML",
@@ -57,9 +82,14 @@
       "company": "ASML Holding NV",
       "status": "deep_dive",
       "added_at": "2026-08-19T22:24:53Z",
-      "research_notes": [],
       "reason_added": "Closely related to NVDA — upstream lithography equipment supplier essential to chip manufacturing.",
-      "research_focus": "Also flag any reported Vanguard stake changes in this stock."
+      "research_focus": "Also flag any reported Vanguard stake changes in this stock.",
+      "research_notes": [
+        {
+          "timestamp_utc": "2026-08-20T00:08:48Z",
+          "note": "Down ~5.5% today, closed ~$1,011.57. Coverage attributes this to renewed concern about China's progress on domestic DUV lithography (long-term competitive risk to ASML's China business) plus a broader risk-off move across semiconductor equipment stocks after a strong recent run — language was hedged ('most likely driver', 'part of the decline could be valuation-driven'), so treated as not clearly tied to one specific new fact and not alerted this run, but worth continued watching given the magnitude. Q2 update was fundamentally strong with a raised 2026 outlook; analyst consensus Strong Buy, avg target $2,169.56. No Vanguard stake news found today."
+        }
+      ]
     }
   ]
 }

@@ -1,4 +1,41 @@
 {
   "_comment": "History of alerts already sent, used to dedupe and give the monitor context on what's already been reported.",
-  "alerts": []
+  "alerts": [
+    {
+      "timestamp_utc": "2026-08-20T00:08:48Z",
+      "ticker": "NVDA",
+      "headline": "NVIDIA reportedly exploring $20B stake in AI data provider Mercor; involved in OpenAI's Ohio data center project; holds $21B stake in SpaceX",
+      "summary": "Multiple reports today describe NVIDIA in talks for a roughly $20B stake in AI data-labeling firm Mercor, alongside its existing involvement in OpenAI's Ohio data center buildout and a previously disclosed $21B stake in SpaceX. These are strategic capital-allocation moves rather than confirmed deals in the Mercor case.",
+      "why_it_matters": "Large potential capital commitments and deepening ties across the AI/compute ecosystem — relevant to NVDA's strategic positioning and balance sheet deployment, though the Mercor stake is still at the 'exploring' stage, not confirmed.",
+      "source_url": "https://www.investing.com/equities/nvidia-corp",
+      "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-20T00:08:48Z",
+      "ticker": "AMD",
+      "headline": "AMD launches $5B debt offering to fund AI and data-center capacity",
+      "summary": "AMD priced a $5 billion debt offering aimed at expanding AI and data-center infrastructure investment, alongside launching its 'Instinct Coder' enterprise AI product.",
+      "why_it_matters": "A material capital raise signals AMD is scaling up AI/data-center investment meaningfully — worth tracking for dilution/leverage implications and execution against that spend.",
+      "source_url": "https://finance.yahoo.com/quote/AMD/news/",
+      "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-20T00:08:48Z",
+      "ticker": "AVGO",
+      "headline": "Broadcom shares fall ~5% after Marvell lands custom AI chip deal with Google",
+      "summary": "AVGO dropped roughly 5% intraday after competitor Marvell Technology announced a deal to develop custom AI chips for Google, raising competitive concerns in Broadcom's custom-silicon business despite Broadcom's own recent strong AI revenue growth (Q2 AI semiconductor revenue up 143% YoY).",
+      "why_it_matters": "A direct competitor winning a major customer (Google) in AVGO's core custom AI silicon business is a specific competitive threat with an identifiable market reaction, not routine noise.",
+      "source_url": "https://stockstory.org/us/stocks/nasdaq/avgo/news/why-up-down/why-broadcom-avgo-stock-is-trading-lower-today",
+      "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-20T00:08:48Z",
+      "ticker": "MU",
+      "headline": "Micron drops 7% after Cathie Wood (ARK Invest) warns high-bandwidth memory prices face cyclical risk",
+      "summary": "MU fell about 7% following public comments from ARK Invest's Cathie Wood cautioning that soaring memory prices are a cyclical warning sign rather than a sustainable investment opportunity, and that she is avoiding memory-dependent AI chip stocks. Shares partially rebounded (~1%) in the following premarket session.",
+      "why_it_matters": "A large, single-day price move (7%) tied to a specific, named, influential public statement about the durability of Micron's core memory pricing cycle — directly relevant to the investment thesis on MU.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/08/61293989/whats-going-on-with-micron-technology-stock-wednesday-5",
+      "portfolio_relevant": false
+    }
+  ]
 }
