@@ -45,6 +45,15 @@
       "why_it_matters": "A direct M&A move expanding AMD's AI inference capabilities — relevant to its competitive positioning against NVDA in the AI compute market.",
       "source_url": "https://finance.yahoo.com/quote/AMD/news/",
       "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-20T03:29:41Z",
+      "ticker": "AVGO",
+      "headline": "Actively-exploited VMware vCenter security flaw affecting hundreds of systems (VMware is Broadcom-owned)",
+      "summary": "Security researchers report a serious VMware vCenter vulnerability being actively exploited, with compromised systems identified across 361 IP addresses in 47 countries. VMware is owned by Broadcom following its 2023 acquisition.",
+      "why_it_matters": "A widely-exploited security flaw in a core Broadcom-owned enterprise product is a reputational and potential liability event, distinct from the earlier Marvell/Google competitive story.",
+      "source_url": "https://finance.yahoo.com/quote/AVGO/news/",
+      "portfolio_relevant": false
     }
   ]
 }
