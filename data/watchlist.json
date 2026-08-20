@@ -17,6 +17,10 @@
         {
           "timestamp_utc": "2026-08-20T01:30:13Z",
           "note": "Background context surfaced (not fresh, dated Aug 10-17): NVIDIA backing $105B in financing for OpenAI's Ohio data center; MOUs to mobilize $500B+ third-party AI compute capital with up to $125B backstop; small-batch H200 shipments into China (ByteDance, Tencent ~10K units each). Jefferies expects a 'beat and raise' Aug 26 earnings report (single analyst view, not alert-worthy). No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T02:23:43Z",
+          "note": "Checked again — no new developments beyond the Mercor/OpenAI/SpaceX story already logged. No new Vanguard stake news."
         }
       ]
     },
@@ -36,6 +40,10 @@
         {
           "timestamp_utc": "2026-08-20T01:30:13Z",
           "note": "July revenue +44.7% YoY (recirculated, not fresh). Arizona operations profitable (~$1.13B cumulative H1 2026). Declared regular cash dividend $1.114/share, ex-date Sept 16 — routine continuation, not a change, not alert-worthy. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T02:23:43Z",
+          "note": "Q2 revenue $40.2B topped guidance, gross margin 67.7%, 2026 growth outlook raised to slightly above 40% — appears to be from the same Q2 earnings call reported weeks ago, not fresh today, so not alerted (would need a fresh dated confirmation to treat as new). No new Vanguard stake news."
         }
       ]
     },
@@ -55,6 +63,10 @@
         {
           "timestamp_utc": "2026-08-20T01:30:13Z",
           "note": "Acquired Taalas to strengthen AI inference compute solutions — logged as a significant M&A event. Also appointed Tim Ryan to the Board of Directors (Aug 19) — routine board addition, not alert-worthy. Q2 2026 results (already reported, background): revenue $11.5B, gross margin 54%, EPS $1.38. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T02:23:43Z",
+          "note": "Debt offering now reported as $4.75B senior notes (closed) — refined figure/status of the same debt raise already logged, not a new distinct event. CEO Lisa Su reiterated H2 2026 server revenue growth guidance (>80% YoY) — appears tied to already-reported Q2 earnings, not fresh. No new Vanguard stake news."
         }
       ]
     },
@@ -74,6 +86,10 @@
         {
           "timestamp_utc": "2026-08-20T01:30:13Z",
           "note": "Continued weakness: down ~12% over the past 7 sessions, ~21% below early-June peak. Notable insider selling pattern (148 sells vs 1 buy recently) and commentary about a '$370B AI financing risk' concern — same underlying Marvell/Google competitive story as before, not a new discrete event, so not re-alerted (would be a duplicate). Watching for any fresh company-specific development. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T02:23:43Z",
+          "note": "Cathie Wood's ARK Invest reportedly bought $16M of AVGO (and $27M of NVDA) during the recent selloff — a contrarian buy signal, but a single fund's disclosed flow isn't one of the strict alert criteria (consistent with not alerting on ARK trimming AMD earlier), so treated as context only. No new Vanguard stake news."
         }
       ]
     },
@@ -93,6 +109,10 @@
         {
           "timestamp_utc": "2026-08-20T01:30:13Z",
           "note": "Background context surfaced (not fresh): Q3 2026 EPS $25.11 beat estimates by 24%, but shares fell ~30% after that report, bottoming near $738 on July 29 — this is an old (~3 week old) event, not new. Became a $1T market-cap company May 26, 2026 (old). No fresh company-specific development this run beyond the already-logged Cathie Wood story. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T02:23:43Z",
+          "note": "Coverage continues elaborating on the same Cathie Wood memory-price warning (now framed via a 'Tesla playbook' analogy re: SK Hynix/Micron) — same story, not new. Management reportedly sees the memory market staying structurally tight beyond 2027 — undated/ambiguous freshness, noted but not alerted. No new Vanguard stake news."
         }
       ]
     },
@@ -112,6 +132,10 @@
         {
           "timestamp_utc": "2026-08-20T01:30:13Z",
           "note": "New strategic partnership reported with Tata Electronics to advance the semiconductor manufacturing ecosystem in India. High NA EUV reached a new readiness milestone (first high-volume logic product). BofA reportedly pushed back on the China-threat narrative, arguing ASML is not under threat from China — relevant counterpoint to yesterday's decline but is analyst opinion, not a new fact; not alert-worthy on its own. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T02:23:43Z",
+          "note": "Checked again — same picture as last check, no new developments. No new Vanguard stake news."
         }
       ]
     }
