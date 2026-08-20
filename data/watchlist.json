@@ -33,6 +33,10 @@
         {
           "timestamp_utc": "2026-08-20T21:57:20Z",
           "note": "Friday morning check (NZ market reopened after Thu 5pm cutoff): new detail on the OpenAI relationship — now framed as NVIDIA planning to invest up to $100B in OpenAI for 10GW of AI data centers from 2026 — appears to be the same ongoing OpenAI/data-center storyline restated with a different figure, not a clearly new discrete event. New minor partnerships (TCS retail AI integration, Abu Dhabi TII joint research lab) — routine business-development news, not alert-worthy. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T22:15:43Z",
+          "note": "Checked again — same OpenAI/Mercor/$500B storylines, no new discrete event. ~23h50m into deep-dive window; will compile the full report once 24h has elapsed. No new Vanguard stake news."
         }
       ]
     },
@@ -68,6 +72,10 @@
         {
           "timestamp_utc": "2026-08-20T21:57:20Z",
           "note": "Friday morning check — no new developments, same picture (3nm ramp, Sony JV talk, Q2 figures). No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T22:15:43Z",
+          "note": "Checked again — analyst avg target ticked to $542.64 (minor fluctuation, not a new distinct action), same picture otherwise. No new Vanguard stake news."
         }
       ]
     },
@@ -103,6 +111,10 @@
         {
           "timestamp_utc": "2026-08-20T21:57:20Z",
           "note": "Friday morning check — ARK Invest reportedly sold ~$1.86M of AMD; consistent with prior treatment, a single fund's disclosed flow (not Vanguard) isn't alert-worthy per the strict criteria. No other new developments. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T22:15:43Z",
+          "note": "Checked again — full Q2 press-release detail now visible (Data Center revenue more than doubled YoY, Client +23%, Embedded +19%), all part of the already-known Q2 report, not fresh. No new discrete event. No new Vanguard stake news."
         }
       ]
     },
@@ -138,6 +150,10 @@
         {
           "timestamp_utc": "2026-08-20T21:57:20Z",
           "note": "Friday morning check — ARK Invest reportedly added $21.1M in AVGO shares during the dip (consistent with the earlier $16M buy note, not a new distinct event). Stock traded $357.61-$381.16 range on elevated volume (35M vs 19M avg) — no new discrete company-specific fact beyond what's logged. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T22:15:43Z",
+          "note": "VMware vCenter vulnerability now described as a 'confirmed critical directory traversal vulnerability' — an escalation/confirmation of the already-alerted security flaw, not a new distinct event, so not re-alerted. New detail: Q3 AI semiconductor revenue guided to $16B (+200%+ YoY), CEO reiterated FY2027 AI semiconductor target of $100B+ — appears tied to the already-known Q2 earnings call guidance, not fresh. No new Vanguard stake news."
         }
       ]
     },
@@ -173,6 +189,10 @@
         {
           "timestamp_utc": "2026-08-20T21:57:20Z",
           "note": "Friday morning check — no new developments beyond the Netlist suit already logged; generic bullish list-piece grouping AMD/TSM/MU as 'Strong Buy AI stocks ahead of Nvidia earnings' — not alert-worthy. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T22:15:43Z",
+          "note": "Checked again — same picture, no new developments. Avg analyst target now shown at $1,501.98 (minor fluctuation from $1,537.50 noted earlier, not a distinct action). No new Vanguard stake news."
         }
       ]
     },
@@ -208,6 +228,10 @@
         {
           "timestamp_utc": "2026-08-20T21:57:20Z",
           "note": "Friday morning check — same picture, no new developments. The '17% interim dividend increase' detail recurred again with no clearer date; treating as background, not alerting without an explicit fresh date. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T22:15:43Z",
+          "note": "Checked again — same picture, no new developments. No new Vanguard stake news."
         }
       ]
     }
