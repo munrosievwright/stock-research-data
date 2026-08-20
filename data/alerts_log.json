@@ -54,6 +54,33 @@
       "why_it_matters": "A widely-exploited security flaw in a core Broadcom-owned enterprise product is a reputational and potential liability event, distinct from the earlier Marvell/Google competitive story.",
       "source_url": "https://finance.yahoo.com/quote/AVGO/news/",
       "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-20T04:22:21Z",
+      "ticker": "AMD",
+      "headline": "AMD refreshes board leadership to support AI strategy",
+      "summary": "AMD announced a board leadership refresh explicitly framed around supporting its AI strategy, reported roughly 3 hours before this check — the freshest AMD item found so far. Specific personnel/role details were not confirmed in search results.",
+      "why_it_matters": "A board leadership change tied explicitly to strategic direction is a governance-relevant event; logged despite limited detail because of its clear recency and framing.",
+      "source_url": "https://ir.amd.com/news-events/press-releases",
+      "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-20T04:22:21Z",
+      "ticker": "AVGO",
+      "headline": "Analysts split after Broadcom selloff: Macquarie downgrades to Neutral, Jefferies raises target to $550, Wells Fargo holds $545",
+      "summary": "Following the Marvell/Google-driven selloff, sell-side reaction was mixed: Macquarie downgraded AVGO to Neutral, while Jefferies raised its price target to $550 and Wells Fargo maintained $545. Street commentary broadly framed the move as a 'catalyst gap, not an AI demand collapse.'",
+      "why_it_matters": "A major bank (Macquarie) downgrading the stock is a new, distinct rating action beyond the original competitive-threat story — worth tracking as analyst sentiment splits.",
+      "source_url": "https://stockstory.org/us/stocks/nasdaq/avgo/news/why-up-down/why-broadcom-avgo-stock-is-trading-lower-today",
+      "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-20T04:22:21Z",
+      "ticker": "MU",
+      "headline": "Netlist files new ITC and federal court patent infringement actions against Micron over DDR5 RDIMM/MRDIMM tech",
+      "summary": "Netlist filed new patent infringement actions with the ITC and in federal court, accusing Micron of infringing multiple patents related to DDR5 RDIMMs and MRDIMMs — products central to Micron's memory business.",
+      "why_it_matters": "An ITC action carries potential import-ban risk on the accused products; a legal action explicitly tied to Micron's core DDR5 memory lineup is a material regulatory/legal risk, distinct from the earlier Cathie Wood price-driven story.",
+      "source_url": "https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_08_18-3/",
+      "portfolio_relevant": false
     }
   ]
 }

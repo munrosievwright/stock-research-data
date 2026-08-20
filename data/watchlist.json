@@ -25,6 +25,10 @@
         {
           "timestamp_utc": "2026-08-20T03:29:41Z",
           "note": "New: Elon Musk reportedly warned the OpenAI Ohio data center project (NVDA backing $105B financing) will take 'much longer' than expected — a soft/opinion-based execution-risk comment, not a discrete fact, so not alerted. Also a new SSI (Safe Superintelligence) partnership announced, undated and vague on materiality — noted, not alerted. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T04:22:21Z",
+          "note": "Earnings call confirmed for Aug 26, 2pm PT, covering FQ2 2027 (ended Jul 26, 2026). Analysts expect ~$28.7B revenue (+50%+ YoY), data center segment >$25B. Trading at ~25x forward earnings, described as reasonably valued heading into earnings. No new discrete event this run. No new Vanguard stake news."
         }
       ]
     },
@@ -52,6 +56,10 @@
         {
           "timestamp_utc": "2026-08-20T03:29:41Z",
           "note": "Checked again — same picture, general risk commentary about Taiwan concentration and geopolitical tail-risk (not a new discrete event). No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T04:22:21Z",
+          "note": "Q3 guidance detail surfaced: $44.6-45.8B revenue, 65-67% gross margin (temporary pressure from 2nm ramp costs) — appears tied to the same Q2 earnings call already noted as old, not fresh today. Next earnings Oct 15, 2026. No new Vanguard stake news."
         }
       ]
     },
@@ -79,6 +87,10 @@
         {
           "timestamp_utc": "2026-08-20T03:29:41Z",
           "note": "CORRECTION: search results now show explicit dates for items I'd been treating as fresh — the Taalas acquisition was actually announced Aug 6, 2026 (already alerted 2h ago as if new; noting the date discrepancy here for the record, not re-alerting). Also newly dated background: Anthropic partnership for up to 2GW of MI450 GPUs (Jul 22) and Microsoft Instinct/EPYC deployment expansion (Jul 20) — both weeks old, not fresh. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T04:22:21Z",
+          "note": "NEW, alerted: board leadership refresh explicitly framed around AI strategy, reported ~3h before this check (freshest AMD item so far) — specifics on which board seats limited in search results. Also saw Aug 19-dated items (5% dip despite AI-efficiency progress, 4% dip despite Mexico Secihti MOU) — over a day old relative to now, not fresh, not alerted. No new Vanguard stake news."
         }
       ]
     },
@@ -106,6 +118,10 @@
         {
           "timestamp_utc": "2026-08-20T03:29:41Z",
           "note": "NEW, alerted: a serious VMware vCenter security flaw is being actively exploited, with compromised systems found across 361 IPs in 47 countries — VMware is a Broadcom-owned product, so logged as significant (security-incident category). Heads into earnings Sept 2 with strong AI momentum per commentary — calendar note only. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T04:22:21Z",
+          "note": "NEW, alerted: mixed analyst reaction to the selloff — Macquarie downgraded to Neutral, Jefferies raised target to $550, Wells Fargo held $545. Street view broadly 'catalyst gap, not AI demand collapse.' No new Vanguard stake news."
         }
       ]
     },
@@ -133,6 +149,10 @@
         {
           "timestamp_utc": "2026-08-20T03:29:41Z",
           "note": "Stock now framed as being in a 'bear market' — down from a June high of $1,255 to ~$940 (~25% drawdown), but this is cumulative multi-month context, not a new discrete event beyond the already-logged Cathie Wood story. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T04:22:21Z",
+          "note": "NEW, alerted: Netlist filed new ITC and federal court patent infringement actions against Micron over DDR5 RDIMM/MRDIMM technology — distinct legal-action event, logged as significant given ITC import-ban risk. No new Vanguard stake news."
         }
       ]
     },
@@ -160,6 +180,10 @@
         {
           "timestamp_utc": "2026-08-20T03:29:41Z",
           "note": "A '17% interim dividend increase' was mentioned in a general performance summary, but with no clear date and framed alongside older stats (147.76% 1yr gain) — likely already-known background rather than fresh news. Will re-verify with an explicit date before treating as alert-worthy if it recurs. No new Vanguard stake news."
+        },
+        {
+          "timestamp_utc": "2026-08-20T04:22:21Z",
+          "note": "Conflicting older headlines surfaced ('lifts 2026 outlook' vs 'warns targets may be unattainable', full-year guidance raised to €43-45B dated ~Aug 10) — inconsistent dating suggests these are from different points earlier this month, not today. Search itself noted no clear Aug 20-specific news. No new Vanguard stake news."
         }
       ]
     }
