@@ -117,6 +117,24 @@
       "why_it_matters": "A guide that undershoots sell-side models, even amid huge headline growth, can be read very differently by the market than a simple reiteration of strong guidance — worth flagging as a distinct interpretive fact about the upcoming Sept 2 earnings setup.",
       "source_url": "https://finance.yahoo.com/quote/AVGO/press-releases/",
       "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-21T03:08:17Z",
+      "ticker": "NVDA",
+      "headline": "NVIDIA preparing a new China-compliant AI chip for shipment by end of 2026",
+      "summary": "NVIDIA is reportedly preparing to ship a new AI chip designed to comply with China export rules by the end of the year, according to a report from The Information.",
+      "why_it_matters": "A new product specifically engineered for China export compliance is a notable strategic move given ongoing US-China chip export tensions — relevant to how much of the China AI chip market NVIDIA can continue to serve.",
+      "source_url": "https://www.investing.com/equities/nvidia-corp-news",
+      "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-21T03:08:17Z",
+      "ticker": "AVGO",
+      "headline": "Broadcom negotiating $60-100B in private debt financing to acquire AI chips/hardware",
+      "summary": "Broadcom is reportedly negotiating with a group of private lenders to secure more than $60 billion in debt financing, part of an arrangement that could ultimately total up to $100 billion, aimed at acquiring custom AI chips and underlying hardware.",
+      "why_it_matters": "A financing package of this scale is a distinct and very large capital-structure event, separate from the Q3 guidance story logged earlier — worth tracking closely given the leverage and execution implications.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/avgo-stock-inches-higher-broadcom-222502327.html",
+      "portfolio_relevant": false
     }
   ]
 }
