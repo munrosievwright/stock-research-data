@@ -90,6 +90,15 @@
       "why_it_matters": "A $10B capital commitment to a new research facility is a significant long-term investment decision, comparable in scale to other capital-allocation events already tracked for this watchlist (e.g. AMD's debt raise, NVDA's strategic stakes).",
       "source_url": "https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_08_18-3/",
       "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-21T01:19:30Z",
+      "ticker": "MU",
+      "headline": "Micron appoints Mark Liu and Christie Simons to Board of Directors",
+      "summary": "Micron announced the appointment of Mark Liu and Christie Simons to its Board of Directors. Note: could not confirm from search snippets alone whether this Mark Liu is the same individual as TSMC's former chairman of the same name — worth verifying if relevant.",
+      "why_it_matters": "A board appointment is a governance-relevant event; flagged given the name recognition risk (if this is the semiconductor-industry Mark Liu, it would be a notable strategic signal) even though board additions are otherwise often routine.",
+      "source_url": "https://finance.yahoo.com/quote/MU/",
+      "portfolio_relevant": false
     }
   ]
 }
