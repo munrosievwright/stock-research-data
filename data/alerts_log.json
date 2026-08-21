@@ -99,6 +99,24 @@
       "why_it_matters": "A board appointment is a governance-relevant event; flagged given the name recognition risk (if this is the semiconductor-industry Mark Liu, it would be a notable strategic signal) even though board additions are otherwise often routine.",
       "source_url": "https://finance.yahoo.com/quote/MU/",
       "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-21T02:20:06Z",
+      "ticker": "TSM",
+      "headline": "TSMC raises 2026 capex to ~$62B midpoint (+$8B) and announces additional $100B Arizona investment, cumulative Arizona commitment now $265B",
+      "summary": "TSMC raised its 2026 capex budget by $8 billion to roughly $62 billion at the midpoint, and announced plans to invest an additional $100 billion in its Arizona operations, bringing its cumulative Arizona investment commitment to $265 billion.",
+      "why_it_matters": "A material capex guidance increase plus a very large incremental U.S. manufacturing investment commitment — a genuine escalation from the previously-known $18.75-20B capex guidance, and a strong signal of TSMC's conviction in sustained AI-driven demand.",
+      "source_url": "https://finance.yahoo.com/quote/TSM/",
+      "portfolio_relevant": false
+    },
+    {
+      "timestamp_utc": "2026-08-21T02:20:06Z",
+      "ticker": "AVGO",
+      "headline": "Broadcom's $16B Q3 AI semiconductor revenue guide is actually ~$1.2B below analyst models, despite 200%+ YoY growth",
+      "summary": "Broadcom's previously-noted Q3 AI semiconductor revenue guidance of $16 billion (200%+ YoY growth) is reported to be approximately $1.2 billion below what analysts had modeled — a materially different read on the same guidance figure than initially captured.",
+      "why_it_matters": "A guide that undershoots sell-side models, even amid huge headline growth, can be read very differently by the market than a simple reiteration of strong guidance — worth flagging as a distinct interpretive fact about the upcoming Sept 2 earnings setup.",
+      "source_url": "https://finance.yahoo.com/quote/AVGO/press-releases/",
+      "portfolio_relevant": false
     }
   ]
 }
